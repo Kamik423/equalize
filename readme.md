@@ -1,9 +1,5 @@
 # equalize
 
-![img](images/iPad_9_7/m.jpg)
-
-![img](images/iPhone_5_8/q.jpg)
-
 Easily type LaTeX equations and drag or copy them anywhere as images.
 
 Ever needed to send someone an equation they asked for? Want to add them to a note, but can't read your own handwriting?
@@ -19,3 +15,7 @@ Feel free to add issues and suggestions to the [issue tracker here on GitHub](ht
 [Issues List](https://github.com/Kamik423/equalize/issues)
 
 [New Issue](https://github.com/Kamik423/equalize/issues/new)
+
+![img](images/iPad_9_7/m.jpg)
+
+![img](images/iPhone_5_8/q.jpg)
