@@ -16,6 +16,8 @@ Feel free to add issues and suggestions to the [issue tracker here on GitHub](ht
 
 [New Issue](https://github.com/Kamik423/equalize/issues/new)
 
+## Screenshots
+
 ![img](images/iPad_9_7/m.jpg)
 
 ![img](images/iPhone_5_8/q.jpg)
