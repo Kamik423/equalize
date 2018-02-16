@@ -14,4 +14,8 @@ Interested in becoming a TestFlight beta tester? Write me an [email](mailt:conta
 
 ## Issues and Suggestions
 
-Feel free to add issues and suggestions to the issue tracker here on GitHub.
+Feel free to add issues and suggestions to the [issue tracker here on GitHub](https://github.com/Kamik423/equalize/issues).
+
+[Issues List](https://github.com/Kamik423/equalize/issues)
+
+[New Issue](https://github.com/Kamik423/equalize/issues/new)
