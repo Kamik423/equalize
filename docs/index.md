@@ -18,9 +18,9 @@ Feel free to add issues and suggestions to the [issue tracker here on GitHub](ht
 
 ## Screenshots
 
-![img](../images/iPad_9_7/m.jpg)
+![img](images/iPad_9_7/m.jpg)
 
-![img](../images/iPhone_5_8/q.jpg)
+![img](images/iPhone_5_8/q.jpg)
 
 ## Privacy Policy
 
