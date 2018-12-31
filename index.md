@@ -1,3 +1,3 @@
 # test
 
-test test [text](/index)
+test test [text](/readme.md)
